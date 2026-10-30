@@ -6,6 +6,16 @@
   </a>
 </p>
 <!--
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./.github/assets/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./.github/assets/snake.svg">
+  <img alt="snake" src="./.github/assets/snake.svg">
+</picture>
+
+
+
 **NullSetx/Nullsetx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
