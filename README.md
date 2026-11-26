@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./.github/assets/profile-banner.webp" alt="NullSet · 印有薄荷绿色空集符号的芯片" width="800">
-</p>
+<h1 align="center">NullSet</h1>
 
 <p align="center">
   我在学嵌入式 Linux，喜欢写些小工具，也做多模态 AI 实验。
